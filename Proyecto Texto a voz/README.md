@@ -7,7 +7,7 @@ Este programa consiste en pasarle una URL de una pagina web o un texto cualquier
 <ul>
 <li>Es necesario importar las librerias newspaper y gtts</li>
 <br>
-<li>El programa al preguntar el programa si queremos sacar un audio a partir de una URL o un texto que nosotros le demos, debemos indicarlo con U (para URLs) o T (para textos). Es insensible a mayusculas/minusculas </li>
+<li>El programa al preguntar si queremos sacar un audio a partir de una URL o un texto que nosotros le demos, debemos indicarlo con U (para URLs) o T (para textos). Es insensible a mayusculas/minusculas </li>
 <br>
 
 <li>Cuanto más contenido tenga la pagina web que usted pase, más tardará en generarse el archivo .mp3. Puede llegar a demorarse bastante</li>
