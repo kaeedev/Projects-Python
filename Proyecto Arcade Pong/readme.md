@@ -66,7 +66,7 @@ Si tienes alguna duda o quieres utilizar algún recurso de este proyecto, por fa
 ---
 ## ENG:
 
-## Arcade Pong 🎮
+# Arcade Pong 🎮
 
 This is a simple yet fun classic Pong game developed in **Python** using the **Pygame** module. It's perfect for those who want to learn about basic video game programming or enjoy a retro game.
 
