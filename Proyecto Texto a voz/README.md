@@ -1,5 +1,7 @@
 # Conversor de Texto a Voz 🗣️
 
+Sencillo conversor de texto a voz realizado con newspaper en Python.
+
 ## 🎯 Objetivo del Proyecto
 Programa muy sencillo que convierte un texto que usted introduzca a voz creando aparte un archivo .mp3. También funciona si se le pasa URL. Analizará el contenido de la página de la URL y lo pasará a un archivo
 .mp3. TENGA EN CUENTA QUE HAY PÁGINAS QUE ESTÁN PROTEGIDAS Y EL PROGRAMA NO PUEDE EXTRAER EL CONTENIDO
