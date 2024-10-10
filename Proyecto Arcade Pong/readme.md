@@ -1,3 +1,5 @@
+## ESP:
+
 # Arcade Pong 🎮
 
 Este es un sencillo pero divertido juego de Pong clásico desarrollado en **Python** utilizando el módulo **Pygame**. Es perfecto para aquellos que quieran aprender sobre la programación de videojuegos básicos o disfrutar de un juego retro.
@@ -62,6 +64,7 @@ Este proyecto está disponible únicamente para uso **docente** y con fines de a
 Si tienes alguna duda o quieres utilizar algún recurso de este proyecto, por favor contacta conmigo.
 
 ---
+## ENG:
 
 ## Arcade Pong 🎮
 
