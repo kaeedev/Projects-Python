@@ -41,7 +41,7 @@ Una carpeta **src** con todo el codigo principal de la lógica del juego. Está 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/arcade-pong.git
+   https://github.com/kaeedev/Projects-Python.git
    
 2. Instala las dependencias necesarias (Es necesario ya que necesita instalarse Pygame):
    ```bash
