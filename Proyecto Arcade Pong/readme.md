@@ -120,7 +120,7 @@ A src folder with all the main game logic code. It is divided into several modul
    ```bash
    python main.py
    
-##📝 License
+## 📝 License
 
 This project is available for educational purposes only and for learning purposes.
 
