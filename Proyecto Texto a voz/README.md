@@ -1,3 +1,5 @@
+## ESP:
+
 # Conversor de Texto a Voz 🗣️
 
 Sencillo conversor de texto a voz realizado con newspaper en Python.
@@ -41,3 +43,48 @@ Este proyecto está disponible únicamente para uso **docente** y con fines de a
 - El código fuente de este proyecto puede ser usado, modificado y distribuido solo con fines educativos.
 
 Si tienes alguna duda o quieres utilizar algún recurso de este proyecto, por favor contacta conmigo.
+
+--- 
+## ENG:
+
+# Text-to-Speech Converter 🗣️
+
+A simple text-to-speech converter using newspaper in Python.
+
+## 🎯 Project Objective
+
+A very simple program that converts text you enter into speech, creating an additional .mp3 file. It also works if you provide a URL. It will analyze the page content from the URL and convert it into an .mp3 file. PLEASE NOTE THAT SOME PAGES ARE PROTECTED AND THE PROGRAM CANNOT EXTRACT CONTENT FROM THEM.
+
+## 🛠️ Project Structure
+
+This is a simple project that contains only one file:
+
+- **texto_voz.py:** A single file that contains functions for extracting text from a URL and converting it into .mp3, converting text written in the terminal to .mp3, etc.
+
+## 🚀 Usage
+The program will give you two options in the terminal upon execution:
+
+- **Enter a URL:** You must provide the URL of the website you want to convert to .mp3. Specify this by typing the lowercase letter u.
+- **Enter text:** You must provide text in the terminal, and the program will convert it into an .mp3 file. Specify this by typing the lowercase letter t.
+- The project includes error handling, so it won't stop if an invalid option is entered.
+- The .mp3 file will be saved in the project folder.
+  
+## 🛠️ Installation and Execution
+
+- Clone this repository:
+    ```bash
+    https://github.com/kaeedev/Projects-Python.git
+
+- No installation required, just have VSCode.
+
+- Run the program in the terminal:
+    ```bash
+    python texto_voz.py
+
+    
+## 📝 License
+This project is available exclusively for educational and learning purposes.
+
+Conditions:
+The source code of this project can be used, modified, and distributed only for educational purposes.
+If you have any questions or want to use any resources from this project, please contact me.
