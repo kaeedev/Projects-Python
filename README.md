@@ -6,7 +6,7 @@ En este repositorio encontrarás mis proyectos más "importantes" hasta la fecha
 
 ## 🎯 Objetivo del Repositorio
 
-El objetivo de este repositorio es aplicar todo lo que voy aprendiendo de Python y plasmarlo en programas y aumentar poco a poco mi nivel como programador. Para alguien experto pueden ser sencillo, pero para
+El objetivo de este repositorio es aplicar todo lo que voy aprendiendo de Python y plasmarlo en programas más serios y con mayores utilidades que los que hago en el repositorio de **Mini-projects-Python** (si deseas puedes ir a verlo)  y aumentar poco a poco mi nivel como programador. Para alguien experto pueden ser sencillo, pero para
 alguien junior cada programa es una experiencia más que gano
 
 
