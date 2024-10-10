@@ -41,7 +41,7 @@ In this repository, you'll find my most "important" projects to date. I will gra
 
 ## 🎯 Repository Objective
 
-The goal of this repository is to apply everything I am learning about Python and showcase it in programs, gradually increasing my skill level as a programmer. For an expert, they might seem simple, but for a junior developer, every program is an experience that adds to my growth.
+The goal of this repository is to apply everything I am learning in Python and put it into more serious programs with greater utility than those I create in the "Mini-projects-Python" repository (feel free to check it out), and to gradually improve my skills as a programmer. For an expert, these may seem simple, but for someone junior, each program is another experience I gain.
 
 ## 🛠️ Repository Structure
 
