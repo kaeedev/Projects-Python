@@ -60,3 +60,67 @@ Este proyecto está disponible únicamente para uso **docente** y con fines de a
 - El código fuente de este proyecto puede ser usado, modificado y distribuido solo con fines educativos.
 
 Si tienes alguna duda o quieres utilizar algún recurso de este proyecto, por favor contacta conmigo.
+
+---
+
+## Arcade Pong 🎮
+
+This is a simple yet fun classic Pong game developed in **Python** using the **Pygame** module. It's perfect for those who want to learn about basic video game programming or enjoy a retro game.
+
+## 🎯 Project Goal
+
+The goal of this project is to recreate the classic Pong game in an arcade version, with a modular structure in **Python**. The focus is on an easy-to-understand implementation, but with customizable features, such as sounds added whenever an action occurs, like when the ball bounces off a paddle or a goal is scored.
+
+## 🛠️ Project Structure
+
+The project is organized into several files for easy maintenance and expansion:
+
+A **assets** folder with another folder called **sounds** to insert some sounds into the game:
+- **bounce-8111.mp3:** Audio file for when the ball bounces off the paddles.
+- **game-start-6104.mp3:** Audio file for when the game starts.
+- **goal-sfx-95846.mp3:** Audio file for when one of the players scores a goal.
+
+A src folder with all the main game logic code. It is divided into several modules:
+- **ball.py:** Handles the logic of the ball, including its movement and collisions.
+- **paddle.py:** Controls the players' paddles.
+- **scoreboard.py:** Displays and updates the players' scores.
+- **game.py:** Manages the game flow and all its main logic.
+- **settings.py:** Configures some game settings such as ball size, game window size, etc.
+- **menu.py:** Manages a menu to exit or restart the game by pressing the ESC key.
+- **main.py:** The main file that runs the game and brings together all the program's functions.
+
+## 🚀 Features
+
+- **Classic Game:** Two players control the paddles, and the goal is to prevent the ball from passing behind their paddles.
+- **Sound Effects:** The game includes sounds for scoring, when the ball bounces off the paddles, and other events.
+- **Dynamic Scoreboard:** Displays both players' scores on screen.
+- **Modular Interface:** Each component of the game is structured into independent files for easier development and customization.
+
+  
+## 🎮 Controls
+
+- **Player 1:** Use the W and S keys to move the paddle up and down.
+- **Player 2:** Use the arrow keys ↑ (up) and ↓ (down) to control their paddle.
+  
+## 🛠️ Installation and Execution
+
+- Clone this repository:
+    ```bash
+    https://github.com/kaeedev/Projects-Python.git
+
+
+- Install the necessary dependencies (Pygame needs to be installed):
+   ```bash
+   pip install -r requirements.txt
+   
+- Run the game: If you're using WSL, disable it and run the code below, as WSL may prevent Windows from finding the audio files:
+   ```bash
+   python main.py
+   
+##📝 License
+
+This project is available for educational purposes only and for learning purposes.
+
+Conditions:
+The source code of this project may be used, modified, and distributed only for educational purposes.
+If you have any questions or would like to use any resources from this project, please contact me.
