@@ -35,7 +35,7 @@ Una carpeta **src** con todo el codigo principal de la lógica del juego. Está 
 ## 🎮 Controles
 
 - **Jugador 1**: Usa las teclas `W` y `S` para mover la paleta hacia arriba y abajo.
-- **Jugador 2**: Usa las teclas de flecha hacia arriba '↑' o hacia abajo '↓' para controlar su paleta.
+- **Jugador 2**: Usa las teclas de flecha hacia arriba `↑` o hacia abajo `↓` para controlar su paleta.
 
 ## 🛠️ Instalación y Ejecución
 
